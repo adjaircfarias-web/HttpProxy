@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/.docs/" />
+  <Project Path="HttpProxy.Tests/HttpProxy.Tests.csproj" Id="8dc13d56-7cd9-469f-9fe3-c278a45fce94" />
+  <Project Path="HttpProxy/HttpProxy.csproj" Id="c923fe60-1d24-4159-bc14-8ce648e57dbd" />
+</Solution>
